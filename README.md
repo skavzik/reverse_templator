@@ -1,0 +1,1 @@
+Примеры использование смотреть в tests/ReverseTemplateTest.php
